@@ -14,10 +14,11 @@
 </div>
 
 <p align="center">
-  <img src="images/Page2_Sales_Trend_and_Profitability_Analysis.png" alt="Sales Trend & Profitability Analysis dashboard page" width="100%">
+  <img src="images/Page1_Overview.png" alt="Overview Page" width="100%">
 </p>
 
-<p align="center"><em>Page 2 — Sales Trend & Profitability Analysis</em></p>
+  <img src="images/Page2_Sales Trend & Profitability Analysis.png" alt="Sales Trend & Profitability Analysis dashboard page" width="100%">
+<p align="center"><em></em></p>
 
 ---
 
